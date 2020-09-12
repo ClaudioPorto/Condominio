@@ -1,0 +1,9 @@
+C:\Users\Claudio\source\repos\Condominios\Condominios.BLL\bin\Debug\netcoreapp3.1\Condominios.BLL.deps.json
+C:\Users\Claudio\source\repos\Condominios\Condominios.BLL\bin\Debug\netcoreapp3.1\Condominios.BLL.dll
+C:\Users\Claudio\source\repos\Condominios\Condominios.BLL\obj\Debug\netcoreapp3.1\Condominios.BLL.csprojAssemblyReference.cache
+C:\Users\Claudio\source\repos\Condominios\Condominios.BLL\obj\Debug\netcoreapp3.1\Condominios.BLL.AssemblyInfoInputs.cache
+C:\Users\Claudio\source\repos\Condominios\Condominios.BLL\obj\Debug\netcoreapp3.1\Condominios.BLL.AssemblyInfo.cs
+C:\Users\Claudio\source\repos\Condominios\Condominios.BLL\bin\Debug\netcoreapp3.1\Condominios.BLL.pdb
+C:\Users\Claudio\source\repos\Condominios\Condominios.BLL\obj\Debug\netcoreapp3.1\Condominios.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Claudio\source\repos\Condominios\Condominios.BLL\obj\Debug\netcoreapp3.1\Condominios.BLL.dll
+C:\Users\Claudio\source\repos\Condominios\Condominios.BLL\obj\Debug\netcoreapp3.1\Condominios.BLL.pdb

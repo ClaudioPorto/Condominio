@@ -1,0 +1,5 @@
+C:\Users\Claudio\source\repos\Condominios\Condominios.DAL\bin\Debug\netcoreapp3.1\Condominios.BLL.dll
+C:\Users\Claudio\source\repos\Condominios\Condominios.DAL\obj\Debug\netcoreapp3.1\Condominios.DAL.csprojAssemblyReference.cache
+C:\Users\Claudio\source\repos\Condominios\Condominios.DAL\obj\Debug\netcoreapp3.1\Condominios.DAL.AssemblyInfoInputs.cache
+C:\Users\Claudio\source\repos\Condominios\Condominios.DAL\obj\Debug\netcoreapp3.1\Condominios.DAL.AssemblyInfo.cs
+C:\Users\Claudio\source\repos\Condominios\Condominios.DAL\obj\Debug\netcoreapp3.1\Condominios.DAL.csproj.CoreCompileInputs.cache
